@@ -1,3 +1,9 @@
+## GUI para la gestión de una biblioteca
+
+## TO-DO - añadir botones
+## TO-DO - añadir funcionalidad para eliminar libros
+## TO-DO - añadir funcionalidad para buscar libros
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 from functions import agregar_libro, eliminar_libro, obtener_libros
